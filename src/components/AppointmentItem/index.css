@@ -1,0 +1,25 @@
+.list-item {
+  border: 1px solid #b5b7c4;
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 250px;
+}
+.item-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.name {
+  font-weight: bold;
+}
+.date {
+  color: #b5b7c4;
+}
+.str-button {
+  border: none;
+  background-color: transparent;
+}
